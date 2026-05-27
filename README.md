@@ -30,9 +30,7 @@ I combine the logical power of Python with a passion for crafting stunning front
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://wa.me/919474722370" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
+  
 
   <a href="mailto:mymailpersonal.63@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
