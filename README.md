@@ -1,7 +1,6 @@
 # ✦  About Me
 
-<img align="right" height="170" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif"  />
-
+<img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGQxNHdjNTNpYzU2bDN5OHQwMzg1bGZ1bXFvbDZldTFza2xkb3JibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
 # 👋 Hi there, I'm a Python Developer & Web Designer!
 
 <br>
