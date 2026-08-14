@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Srish Ghosh - Python AI Developer" src="./dark.svg">
+</picture>
 # ✦ About Me
 
 <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGQxNHdjNTNpYzU2bDN5OHQwMzg1bGZ1bXFvbDZldTFza2xkb3JibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
